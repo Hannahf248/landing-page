@@ -5,6 +5,10 @@ body {
    font-family: 'Roboto';
 }
 
+ul {
+    list-style-type: none;
+}
+
 .section1 {
     background-color: #1F2937;
     color: white;
@@ -12,6 +16,7 @@ body {
     align-items: center;
     justify-content: space-around;
 }
+
 
 .header {
     font-size: 24px;
@@ -24,9 +29,24 @@ body {
     gap: 20px;
 }
 
-ul {
-    list-style-type: none;
+
+.subsection1 {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-around; 
+    padding: 80px;
 }
+
+.signup {
+    background-color: #3882F6;
+    padding: 8px 30px 8px 30px;
+    color: white;
+    font-weight: bold;
+    border-radius: 12px;
+    border: none;
+}
+
 
 
 
