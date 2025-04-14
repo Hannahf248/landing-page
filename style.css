@@ -34,18 +34,39 @@ ul {
     background-color: #1F2937;
     color: white;
     display: flex;
-    justify-content: space-around; 
+    justify-content: center; 
+    align-items: center;
     padding: 80px;
+    gap: 30px;
+}
+
+.subheader {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
 }
 
 .signup {
     background-color: #3882F6;
-    padding: 8px 30px 8px 30px;
+    padding: 8px 30px;
     color: white;
     font-weight: bold;
     border-radius: 12px;
     border: none;
 }
+
+.imgplaceholder {
+    background-color: lightslategrey;
+    padding: 80px 100px;
+}
+
+.leftsubsection1{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 550px;
+    gap: 10px;
+}
+
 
 
 
