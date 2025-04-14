@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
    margin: 0; 
@@ -10,11 +10,18 @@ body {
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-around;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .header-links {
     display: flex;
     flex-direction: row;
+    gap: 20px;
 }
 
 ul {
