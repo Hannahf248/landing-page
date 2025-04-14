@@ -89,6 +89,7 @@ ul {
     justify-content: center;
     gap: 50px;
     flex-wrap: wrap;
+    padding-bottom: 50px;
 }
 
 .shapetext {
@@ -99,6 +100,22 @@ color: #1F2937;
 
 .item {
     max-width: 150px;
+}
+
+.section3 {
+background-color: #e5e7eb;
+padding: 80px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter; 
+}
+
+.quoteauthor {
+    font-weight: bold;
+    text-align: right;
 }
 
 
