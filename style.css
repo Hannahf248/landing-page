@@ -118,6 +118,13 @@ padding: 80px 300px;
     text-align: right;
 }
 
-
+.footer {
+display: flex;
+justify-content: center;
+align-content: center;
+padding: 50px;
+background-color: #1F2937;
+color: #f9faf8;
+}
 
 
