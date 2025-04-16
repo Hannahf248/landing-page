@@ -127,4 +127,37 @@ background-color: #1F2937;
 color: #f9faf8;
 }
 
+.section4{
+    background-color: #3882F6;
+    border: 10px solid #3882F6;
+    padding: 50px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.outersection4 {
+    padding: 100px 280px;
+}
+
+.signupbutton {
+    border: 1.5px solid white;
+    padding: 8px 30px;
+    font-weight: bold;
+    background-color: #3882F6;
+color: white;
+border-radius: 12px;
+}
+
+.calltoaction {
+    font-size:22px;
+}
+
+.section4left {
+    display: flex;
+    flex-direction: column;
+}
 
